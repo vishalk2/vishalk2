@@ -4,4 +4,4 @@ I'm a Python Programmer, currently exploring my interests in Data Science & Appl
 Owing to multi-tasking, I'm a Content Writer too!
 My hobbies include Fiction & Short story writing, Watching & Playing Cricket & CAD modeling.
 
-Connect to me over LinkedIn: https://www.linkedin.com/in/badari-vishal-k2/
+Connect with me over LinkedIn: https://www.linkedin.com/in/badari-vishal-k2/
