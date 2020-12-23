@@ -8,4 +8,4 @@ My hobbies include Fiction & Short story writing, Watching & Playing Cricket, CA
 
 Catch up with me over LinkedIn :point_right: https://www.linkedin.com/in/badari-vishal-k2/
 
-Here's my new portfolio website :point_right: https://vishalk2.github.io/portfolio/
+Here's my new portfolio website (hosted on Github) :point_right: https://vishalk2.github.io/portfolio/
