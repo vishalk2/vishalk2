@@ -13,5 +13,3 @@ Owing to multi-tasking, I'm a Content Writer too! :writing_hand:
 Here's what I love to do in my free time: Write Fiction & Short stories, Enjoy the Game of Cricket, and Travel like it's my last trip :airplane: .
 
 To get in touch, connect with me on LinkedIn :point_right: https://www.linkedin.com/in/badari-vishal-k2/
-
-Here's my new portfolio website (hosted on Github) (Meh! It's not really great though!) :point_right: https://vishalk2.github.io/portfolio/
